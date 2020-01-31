@@ -28,6 +28,7 @@ executable how-do-i-create-a-window-and-have-it-run-itself
     -threaded
     -rtsopts
     -with-rtsopts=-N
+    -optl-mwindows
   build-depends:
       base >= 4.7 && < 5
     , webviewhs
