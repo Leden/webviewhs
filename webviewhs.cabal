@@ -71,6 +71,7 @@ library
   ghc-options:
     -Wall
     -freverse-errors
+    -optl-mwindows
   default-language: Haskell2010
   if flag(light)
     cpp-options:
