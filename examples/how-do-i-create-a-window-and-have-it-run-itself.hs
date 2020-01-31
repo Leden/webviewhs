@@ -20,5 +20,5 @@ main =
       , WHS.windowParamsWidth      = 800
       , WHS.windowParamsHeight     = 600
       , WHS.windowParamsResizable  = True
-      , WHS.windowParamsDebuggable = True
+      , WHS.windowParamsDebuggable = False
       }
